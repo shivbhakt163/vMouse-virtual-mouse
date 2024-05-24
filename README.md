@@ -28,9 +28,9 @@ just download/clone the github repo from the link :
 <br>
 -python-3.12.3-amd64.exe (python version 3.11 and up)
 </br>
-<br1>
+<br>
 -"gateway_packages.txt" for the required modules and you'll be getting them in the directory.
-</br1>
+</br>
 -"pkg_installer.bat" for installation of the required modules.
 ## Usage
 
