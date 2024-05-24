@@ -33,13 +33,23 @@ just download/clone the github repo from the link :
 
 ## Usage
 
-1. **Run the Python script:**
+1. **Change the directory:**
+   ```sh
+   cd vMouse-virtual-mouse
+   ```
+
+2. **run the batch file:**
+   ```sh
+   pkg_installer.bat
+   ``` 
+
+3. **Run the Python script:**
 
     ```sh
-    python vMouse_tr.py
+    python main.py
     ```
 
-2. **Control the mouse with your hand movements:**
+4. **Control the mouse with your hand movements:**
     - Move the mouse cursor with your index finger.
     - Perform a left-click by bringing your index and middle fingers close together.
     - Perform a right-click by bringing your thumb and index finger close together.
