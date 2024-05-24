@@ -53,6 +53,7 @@ just download/clone the github repo from the link :
     - Move the mouse cursor with your index finger.
     - Perform a left-click by bringing your index and middle fingers close together.
     - Perform a right-click by bringing your thumb and index finger close together.
+    - Perform a drag and drop operation by bringing your thumb and index finger close to each other.
 
 ## Contributing
 
