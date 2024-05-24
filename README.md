@@ -31,7 +31,9 @@ just download/clone the github repo from the link :
 <br>
 -"gateway_packages.txt" for the required modules and you'll be getting them in the directory.
 </br>
--"pkg_installer.bat" for installation of the required modules.
+<br>
+-"pkg_installer.bat" for installation of the required modules, installation is simple just run the pkg_installer.bat.
+</br>
 ## Usage
 
 1. **Run the Python script:**
