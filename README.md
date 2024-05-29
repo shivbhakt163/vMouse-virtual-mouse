@@ -1,7 +1,7 @@
 # vMouse-virtual-mouse
 ## Description
 
-vMouse_tr is a Python application that uses OpenCV and MediaPipe for hand tracking to control the mouse. The project captures video from your webcam and detects hand movements to move the mouse cursor and perform click actions.
+vMouse is a Python application that uses OpenCV and MediaPipe for hand tracking to control the mouse. The project captures video from your webcam and detects hand movements to move the mouse cursor and perform click actions.
 
 ## Features
 
